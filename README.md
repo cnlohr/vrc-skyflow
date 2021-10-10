@@ -6,4 +6,6 @@ Exposing the OpenSky Network in a VRC world
 
 # Resources
  * https://visibleearth.nasa.gov/images/73580/january-blue-marble-next-generation-w-topography-and-bathymetry
+ * https://opensky-network.org/api/states/all
+ * https://www.adsbexchange.com/data/
  * 
